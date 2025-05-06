@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kasper.devos\\source\\repos\\projectcaravan\\projectcaravan\\projectcaravan.csproj": {}
+    "C:\\Users\\kasper.devos\\Desktop\\caravan\\backend\\projectcaravan\\projectcaravan\\projectcaravan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kasper.devos\\source\\repos\\projectcaravan\\projectcaravan\\projectcaravan.csproj": {
+    "C:\\Users\\kasper.devos\\Desktop\\caravan\\backend\\projectcaravan\\projectcaravan\\projectcaravan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kasper.devos\\source\\repos\\projectcaravan\\projectcaravan\\projectcaravan.csproj",
+        "projectUniqueName": "C:\\Users\\kasper.devos\\Desktop\\caravan\\backend\\projectcaravan\\projectcaravan\\projectcaravan.csproj",
         "projectName": "projectcaravan",
-        "projectPath": "C:\\Users\\kasper.devos\\source\\repos\\projectcaravan\\projectcaravan\\projectcaravan.csproj",
+        "projectPath": "C:\\Users\\kasper.devos\\Desktop\\caravan\\backend\\projectcaravan\\projectcaravan\\projectcaravan.csproj",
         "packagesPath": "C:\\Users\\kasper.devos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kasper.devos\\source\\repos\\projectcaravan\\projectcaravan\\obj\\",
+        "outputPath": "C:\\Users\\kasper.devos\\Desktop\\caravan\\backend\\projectcaravan\\projectcaravan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
