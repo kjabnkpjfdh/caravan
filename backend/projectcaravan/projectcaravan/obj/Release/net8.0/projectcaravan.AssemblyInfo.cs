@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projectcaravan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cb48c86958b10b69ccde847272b1e9941ac0679")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+107ffd233c5671777df01f710e9a767a49284e90")]
 [assembly: System.Reflection.AssemblyProductAttribute("projectcaravan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projectcaravan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
